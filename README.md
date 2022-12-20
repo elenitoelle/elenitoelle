@@ -1,6 +1,6 @@
 # 👋 Hi, welcome to my github page!
 ### **I am a dynamic DS bootcamp graduate looking to expand my interests in tech 💫**
-- 👀 I’m interested in AI/ML and Analytics
+- 👀 Interests: AI/ML and Analytics
 - 🎯 I’m currently deepening my skills and looking to get started on projects
 - 📫 How to reach me: LinkedIn
 
